@@ -1,0 +1,5 @@
+include ':apt-annotation'
+include ':apt-processor'
+include ':apt-library'
+include ':app'
+rootProject.name = "AnnotationFormal"
